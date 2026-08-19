@@ -31,3 +31,13 @@ datagen/out/
 /src/main/generated/.cache/
 
 CHANGELOG.md
+
+# local investigation artifacts
+build_log.txt
+client_sha1.txt
+client_url.txt
+localplayer_javap.txt
+minecraft_javap.txt
+mc26.2.client.jar
+mc262_classes/
+sponge-mixin.jar
